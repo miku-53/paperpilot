@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+.env
+data/index/
+data/checkpoints.sqlite
+data/cache/
+.streamlit/

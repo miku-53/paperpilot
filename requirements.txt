@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-openai
+langchain-text-splitters
+langgraph
+langgraph-checkpoint-sqlite
+dashscope
+pymupdf
+pypdf
+jieba
+rank-bm25
+streamlit
+python-dotenv
+python-docx
+pandas
+numpy

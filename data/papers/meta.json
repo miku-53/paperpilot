@@ -1,0 +1,37 @@
+{
+  "react": {
+    "file": "react.pdf",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "authors": "Yao et al.",
+    "year": 2022,
+    "arxiv": "2210.03629"
+  },
+  "asai2023": {
+    "file": "asai2023.pdf",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "authors": "Asai et al.",
+    "year": 2023,
+    "arxiv": "2310.11511"
+  },
+  "liu2023": {
+    "file": "liu2023.pdf",
+    "title": "Lost in the Middle: How Language Models Use Long Contexts",
+    "authors": "Liu et al.",
+    "year": 2023,
+    "arxiv": "2307.03172"
+  },
+  "lewis2020": {
+    "file": "lewis2020.pdf",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "authors": "Lewis et al.",
+    "year": 2020,
+    "arxiv": "2005.11401"
+  },
+  "edge2024": {
+    "file": "edge2024.pdf",
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "authors": "Edge et al.",
+    "year": 2024,
+    "arxiv": "2404.16130"
+  }
+}
